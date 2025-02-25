@@ -55,10 +55,10 @@ Berikut adalah link untuk Dashboard yang telah kita buat :
 https://public.tableau.com/views/Enigma-PortugalBankDepositCampaignPerformanceCustomerTrends/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link 
 
 Berikut adalah screenshot dari Dashboard
-
+https://github.com/PurwadhikaDev/EnigmaGroup_JC_DS_OL_16_A_FinalProject/blob/main/Dashboard%20Enigma.png
 ## Monetisasi
 Perhitungan MONETISASI dengan adanya improvement Machine Learning dan Personalized Marketing Campaign:
-
+https://github.com/PurwadhikaDev/EnigmaGroup_JC_DS_OL_16_A_FinalProject/blob/main/Monetisasi.png
 
 Dengan breakdown di atas, terlihat bahwa penerapan model dengan recall 53% dapat mengurangi biaya telemarketing dan kehilangan revenue yang lebih besar.
 Penghematan Biaya Telemarketing = Rp 1.287.975.000** (47.0% penghematan).
