@@ -61,7 +61,7 @@ Perhitungan MONETISASI dengan adanya improvement Machine Learning dan Personaliz
 https://github.com/PurwadhikaDev/EnigmaGroup_JC_DS_OL_16_A_FinalProject/blob/main/Monetisasi.png
 
 Dengan breakdown di atas, terlihat bahwa penerapan model dengan recall 53% dapat mengurangi biaya telemarketing dan kehilangan revenue yang lebih besar.
-Penghematan Biaya Telemarketing = Rp 1.287.975.000** (47.0% penghematan).
-Penghematan Kehilangan Revenue = Rp 9.687.500.000** (53.0% penghematan).
+Penghematan Biaya Telemarketing = Rp 1.287.975.000 (47.0% penghematan).
+Penghematan Kehilangan Revenue = Rp 9.687.500.000 (53.0% penghematan).
 Total Penghematan = Rp 10.975.475.000
 
