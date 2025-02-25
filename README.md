@@ -12,7 +12,7 @@ Dengan pendekatan ini, Manajemen Bank dan Tim Marketing dapat memberikan cashbac
 ## Problem Statement
 Tidak semua nasabah yang dihubungi tertarik membuka deposito berjangka, data Statistik menunjukan 36.537 (88,7%) orang nasabah menolak buka deposito. Di simulasikan, total kehilangan potential revenue dan biaya telemarketing mencapai Rp 21 Miliar. Dengan strategi pemasaran yang menawarkan cashback secara sistematis, bank dapat meningkatkan konversi deposito dan mengurangi biaya marketing.
 
-
+https://github.com/PurwadhikaDev/EnigmaGroup_JC_DS_OL_16_A_FinalProject/blob/main/Problem%20Statement.png 
 
 ## Goals
 Tujuan utama dari proyek adalah untuk membangun model pembelajaran mesin yang dapat mengidentifikasi calon nasabah yang kemungkinan tidak tertarik dengan produk deposito, sehingga bank dapat membuat strategi pemasaran kustom (personalized) yang dapat memberikan penawaran cashback yang menarik untuk nasabah guna meningkatkan peluang mereka membuka deposito dan mendorong pertumbuhan pendapatan bank.
